@@ -1,0 +1,9 @@
+************ H5 file is of 70MB and not getting compressed below 50MB which is the maximum size for upload in Upgrad Portal******************
+
+Please find H5 file here - 
+
+https://drive.google.com/file/d/1hlkFPbH-omrxoJ-q41BJJ6m8RriETSTh/view?usp=sharing
+
+OR
+
+https://github.com/adityarepekar/Hand-Gesture-Recognition 
